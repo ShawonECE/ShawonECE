@@ -20,7 +20,5 @@ Skills: REACT / JavaScript / Express  / MongoDB / React Hook Form / Firebase / T
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawonECE&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ShawonECE)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ShawonECE)  
 
