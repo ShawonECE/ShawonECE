@@ -1,16 +1,26 @@
-## Hi there 👋
+(https://media.licdn.com/dms/image/D5616AQFiT8TcAE0w1Q/profile-displaybackgroundimage-shrink_350_1400/0/1718258440156?e=1723680000&v=beta&t=Gd3Hd-psedxcuUF9qsQEABJEQrB9iZd92fJZ0TIImrM)
+### Hi there 👋, I'm Shahriar Shawon
+#### Web Developer  |  Front-end Engineer  |  Programmer
+![Web Developer  |  Front-end Engineer  |  Programmer]
 
-<!--
-**ShawonECE/ShawonECE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Leveraging my background in Electronics & Communication Engineering, I excel at crafting clean, efficient code.  My analytical thinking and strong foundation in mathematics translate into effective problem-solving skills, as evidenced by completing over 100 problems on LeetCode. I'm passionate about building user-friendly web applications and eager to contribute my skills to innovative projects.
 
-Here are some ideas to get you started:
+Skills: REACT / JavaScript / Express  / MongoDB / React Hook Form / Firebase / Tailwind / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development, Programming
+  
+📞 +880 1775003179 
+✉ shahriar.shawon.ece@gmail.com
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShawonECE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahriar-shawon-ece/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shahriar.shawon.790)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawonECE)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawonECE&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/ShawonECE)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ShawonECE)  
+
