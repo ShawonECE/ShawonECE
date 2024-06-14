@@ -2,7 +2,6 @@
 
 ### Hi there 👋, I'm Shahriar Shawon
 #### Web Developer  |  Front-end Engineer  |  Programmer
-![Web Developer  |  Front-end Engineer  |  Programmer]
 
 Leveraging my background in Electronics & Communication Engineering, I excel at crafting clean, efficient code.  My analytical thinking and strong foundation in mathematics translate into effective problem-solving skills, as evidenced by completing over 100 problems on LeetCode. I'm passionate about building user-friendly web applications and eager to contribute my skills to innovative projects.
 
