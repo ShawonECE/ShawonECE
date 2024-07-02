@@ -9,7 +9,7 @@
 Leveraging my background in Electronics & Communication Engineering, I excel at crafting clean, efficient code.  My analytical thinking and strong foundation in mathematics translate into effective problem-solving skills, as evidenced by completing over 100 problems on LeetCode. I'm passionate about building user-friendly web applications and eager to contribute my skills to innovative projects.
 
 <h3>Skills</h3>
-<p align="center">
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://i.ibb.co/ZcYc4sz/tailwind-logo.png" alt="tailwind" width="40" height="40"/>
@@ -34,7 +34,6 @@ Leveraging my background in Electronics & Communication Engineering, I excel at 
 <a href="https://www.facebook.com/shahriar.shawon.790" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gautamkrishnar" height="40" width="50" /></a>
 </p> 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawonECE)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawonECE&show_icons=true&count_private=true)  
 
