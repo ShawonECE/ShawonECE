@@ -1,4 +1,4 @@
-![Web Developer  |  Front-end Engineer  |  Programmer](https://media.licdn.com/dms/image/D5616AQFiT8TcAE0w1Q/profile-displaybackgroundimage-shrink_350_1400/0/1718258440156?e=1723680000&v=beta&t=Gd3Hd-psedxcuUF9qsQEABJEQrB9iZd92fJZ0TIImrM)
+![Web Developer  |  Front-end Engineer  |  Programmer](https://media.licdn.com/dms/image/v2/D5616AQFiT8TcAE0w1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718258440156?e=1732147200&v=beta&t=zeTZKBHU4_xNy4bcea-GpK_yDYc4rcOzS0TOg6hAQjo)
 
 <br/>
 <div align="center">
