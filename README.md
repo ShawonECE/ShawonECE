@@ -1,4 +1,4 @@
-![Web Developer  |  Front-end Engineer  |  Programmer](https://media.licdn.com/dms/image/v2/D5616AQFiT8TcAE0w1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718258440156?e=1732147200&v=beta&t=zeTZKBHU4_xNy4bcea-GpK_yDYc4rcOzS0TOg6hAQjo)
+![Web Developer  |  Front-end Engineer  |  Programmer](https://firebasestorage.googleapis.com/v0/b/hot-onion-cc2a3.appspot.com/o/Web%20Developer%20%20Engineer.png?alt=media&token=d9be34cb-bf3b-4224-b6c4-e075d910d036)
 
 <br/>
 <div align="center">
